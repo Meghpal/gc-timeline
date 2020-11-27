@@ -1,8 +1,4 @@
-.App {
-  text-align: center;
-}
-
-.App-body {
+.app {
   background-color: #007878;
   min-height: 100vh;
   display: flex;
