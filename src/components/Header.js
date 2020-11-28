@@ -10,14 +10,10 @@ export default class Header extends React.Component {
         };
     }
 
-    componentDidMount() {
-        window.addEventListener('click', () => this.setState({ occupy: false }));
-    }
-
     render() {
         return (
-            <header className={this.state.occupy ? "" : "free"} >
-                <div>AA</div>
+            <header className={this.state.occupy ? "" : "free"} onClick={() => this.setState({ occupy: false })}>
+                <div>Technology and Impact - India</div>
                 {this.state.occupy && <KeyboardArrowDown />}
             </header>
         );

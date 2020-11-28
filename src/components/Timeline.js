@@ -1,5 +1,10 @@
+import Slide from './Slide';
 import React from 'react';
 import '../css/Timeline.css';
+
+const CreateSlide = ({ year, month }) => {
+    return <Slide year={year} month={month} />
+}
 
 export default class Timeline extends React.Component {
     constructor(props) {
@@ -10,8 +15,8 @@ export default class Timeline extends React.Component {
 
     render() {
         return (
-            <div class="time-line">
-                asdas
+            <div className="time-line">
+                <CreateSlide year={2020} month={10} />
             </div>
         );
     }
