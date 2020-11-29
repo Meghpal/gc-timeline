@@ -3,7 +3,7 @@
         "day": 1,
         "month": 11,
         "year": 2020,
-        "title": "jake",
+        "title": " jake",
         "description": "asda asd as daskda sdaksd askd aks dka sdk",
         "image": "slides/1.jpg"
     },
@@ -11,8 +11,16 @@
         "day": 2,
         "month": 10,
         "year": 2020,
-        "title": "wens",
+        "title": " wens",
         "description": "z asdzx  zzakd akzs zdka zdzdzz zvzvzv sdk",
+        "image": "slides/2.jpg"
+    },
+    {
+        "day": 1,
+        "month": 10,
+        "year": 1980,
+        "title": " as",
+        "description": "v asdzx  zzakd akzs zdka zdzdzz zvzvzv sdk",
         "image": "slides/2.jpg"
     }
 ]

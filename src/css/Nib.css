@@ -1,0 +1,17 @@
+.time-nib{
+    height: 5vh;
+    width: 4px;
+    background-color: white;
+    transition: 0.3s;
+}
+
+.time-nib:hover{
+    transform: scale(2,2);
+}
+
+@media only screen and (min-width: 768px) {
+    .time-nib{
+    height: 4px;
+    width: 5vw;
+    }
+}
