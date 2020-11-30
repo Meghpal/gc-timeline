@@ -1,26 +1,849 @@
 [
     {
-        "day": 1,
-        "month": 11,
-        "year": 2020,
-        "title": " jake",
-        "description": "asda asd as daskda sdaksd askd aks dka sdk",
+        "month": 1,
+        "year": 1900,
+        "title": "Cresograph",
+        "description": "Bose started pursuing the field of plants and animal physiology, and invented Cresograph, which records plant’s growth",
+        "image": "slides/14.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1901,
+        "title": "",
+        "description": "",
+        "image": "slides/17.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1902,
+        "title": "First paint factory",
+        "description": "Shalimar Paint Color & Varnish Co. was established in 1902 in Howrah, West Bengal . Rashtrapati Bhavan, Howrah Bridge, Vidyasagar Setu, Salt Lake Stadium, continue to use Shalimar Paints today",
+        "image": "slides/21.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1903,
+        "title": "",
+        "description": "",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1904,
+        "title": "First Patent for India, first gun carriage factory",
+        "description": "In 29 March, 1904, Bose became the first Indian to get a patent for his detector for electrical disturbances, the gun carriage factory is established in Jabalpur",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1905,
+        "title": "",
+        "description": "",
+        "image": "slides/9.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1906,
+        "title": "First Fertilizer factory",
+        "description": "First fertilizer factory in India (Ranipet, Tamil Nadu)",
+        "image": "slides/18.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1907,
+        "title": "Cataract Couching",
+        "description": "The Bower Manuscript, named after the discoverer who unearthed the Sushruta Samhita (the book of medicine) in Turkestan, 1890, details the possible variety of procedures and diseases for the benefit of humankind. The translation of teh manuscript was done by Bhisgratna in 1907. Sushruta describes the procedure of cataract-couching. The main task is to disturb the lens material, take it to the back of the eye and burst it with an incision. He cleans the eye with butter and advises to rest it for 10 days.",
+        "image": "slides/11.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1908,
+        "title": "",
+        "description": "might help - https://en.m.wikipedia.org/wiki/Landau%E2%80%93Ramanujan_constant (Aneesh)",
+        "image": "slides/2.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1909,
+        "title": "",
+        "description": "",
         "image": "slides/1.jpg"
     },
     {
-        "day": 2,
-        "month": 10,
-        "year": 2020,
-        "title": " wens",
-        "description": "z asdzx  zzakd akzs zdka zdzdzz zvzvzv sdk",
+        "month": 1,
+        "year": 1910,
+        "title": "",
+        "description": "",
+        "image": "slides/1.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1911,
+        "title": "First Flight",
+        "description": "Henri Pequet, flying a Humber biplane, carried mail from Allahabad to Naini junction which was the first flight in India.",
+        "image": "slides/23.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1912,
+        "title": "Motor Vehicle",
+        "description": "India introduced registration of motor vehicles.",
+        "image": "slides/21.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1913,
+        "title": "Full Length Movie",
+        "description": "Raja Harischandra, First full-length movie of India released. Beginning of Indian Film Industry.",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1914,
+        "title": "First Indian Science Congress",
+        "description": "The first meeting of the congress was held from 15 to 17 January 1914 at the premises of the Asiatic Society, Calcutta. Honorable justice Sir Ashutosh Mukherjee, the then Vice Chancellor of the University of Calcutta presided over the Congress. One hundred and five scientists from different parts of India and abroad attended it. Altogether 35 papers under 6 different sections, namely Botany, Chemistry, Ethnography, Geology, Physics and Zoology were presented.",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1915,
+        "title": "",
+        "description": "",
+        "image": "slides/13.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1916,
+        "title": "Ramanujam Tau Function",
+        "description": "The Ramanujan tau function, studied by Ramanujan, is the function defined by the following identity: where with and is the Dedekind eta function and the function is a holomorphic cusp form of weight 12 and level 1, known as the discriminant modular form. The Ramanujan tau function is an important arithmeticfunction having many applications in number theory.",
+        "image": "slides/14.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1917,
+        "title": "Establishment of Bose Institute",
+        "description": "Concentrated around research is in the fields of Physics, Chemistry, Plant biology, Microbiology, Molecular medicine, Biochemistry, Biophysics, Bioinformatics and Environmental science. The Institute pioneered the concept of inter-disciplinary research in Asia and India in sync with global trends. The Institute has contributed to extremely important discoveries and has been home to internationally renowned researchers like Sambhu Nath De (discoverer of the cholera toxin), Debendra Mohan Bose (who pioneered the use of photographic emulsion plates in particle physics as attested by the Nobel Laureate Sir C. F. Powell ), Gopal Chandra Bhattacharya, Shyamadas Chatterjee (known for research on fusion) etc. The pioneering work of Jagadish Chandra Bose at the dawn of Bose institute on the effect of stimuli in plants was helpful in the establishment of the electrical nature of the conduction of various stimuli in plants.",
+        "image": "slides/7.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1918,
+        "title": "",
+        "description": "",
+        "image": "slides/4.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1919,
+        "title": "",
+        "description": "",
+        "image": "slides/15.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1920,
+        "title": "Saha Equation (Space)",
+        "description": "The Saha equation, derived by the Bengali scientist Meghnad Saha in 1920, conceptualises ionisations in context of stellar atmospheres.",
+        "image": "slides/11.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1921,
+        "title": "",
+        "description": "",
+        "image": "slides/4.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1922,
+        "title": "",
+        "description": "",
+        "image": "slides/23.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1923,
+        "title": "Physics behind Blue Colour of the sea water by C.V. Raman",
+        "description": "Prof. C.V Raman put forward his theory that the deep blue colour characteristic of the large part of ocean water is due to the molecular scattering of light in water and supported it with calculation of intensity and quality of light returned from deep waters https://www.tandfonline.com/doi/abs/10.1080/14786442308634277?journalCode=tphm17",
+        "image": "slides/19.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1924,
+        "title": "",
+        "description": "",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1925,
+        "title": "",
+        "description": "",
+        "image": "slides/11.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1926,
+        "title": "PSC Commission Established",
+        "description": "Public Service Commission established, it was later reconstituted as Federal Public Service Commission by the Government of India Act 1935 only to be renamed as today's Union Public Service Commission after the independence.",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1927,
+        "title": "Radio Broadcasting was initiated",
+        "description": "In 1947 it was given the name All India Radio. It was later renamed to Akashvani. All India Radio is the largest radio network in the world, and one of the largest broadcasting organisations in the world in terms of the number of languages broadcast and the spectrum of socio-economic and cultural diversity it serves.",
+        "image": "slides/21.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1928,
+        "title": "Raman Effect",
+        "description": "Raman scattering or the Raman effect is the inelastic scattering of photons by matter, meaning that there is an exchange of energy and a change in the light's direction.",
+        "image": "slides/4.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1929,
+        "title": "Expansion of railway network in India",
+        "description": "By 1929, the railway network had grown to an overall length of 66,000km and carried approximately 620 million passengers and 90 million tonnes of goods annually.",
+        "image": "slides/7.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1930,
+        "title": "Formation of National Academy of Science",
+        "description": "The National Academy of Sciences, India, established in 1930, is the oldest science academy in India. It is located in Prayagraj, Uttar Pradesh. Prof. Meghnad Saha was the founder president",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1931,
+        "title": "Folate Discovery",
+        "description": "Folate and its role in human biochemical functioning was first identified by researcher Lucy Wills in 1931. Folate helps in transfer of a single methyl group in various metabolic reactions in the body and in the functioning of the nervous system.",
+        "image": "slides/15.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1932,
+        "title": "Zero-length spring",
+        "description": "Zero-length springs are invented, revolutionizing seismometers, vehicle suspension, firearms and gravimeters.",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1933,
+        "title": "Hindustan Unilever gets established",
+        "description": "Hindustan Unilever, a subsidiary of the British Dutch company Unilever gets established",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1934,
+        "title": "Formation of Indian Academy of Sciences",
+        "description": "The Indian Academy of Sciences was founded in 1934 by C. V. Raman, the eminent nobel prizee winning physicist.",
+        "image": "slides/12.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1935,
+        "title": "Babha Scattering",
+        "description": "Nuclear Physicist Homi Jehangir Bhabha publishes his calculation to determine electron-positron scattering cross section. Known now as Bhabha scattering, it is being used to measure luminosity in particle colliders.",
+        "image": "slides/20.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1936,
+        "title": "Mahalanobis Distance",
+        "description": "Statistician Prasanta Chandra Mahalanobis introduces a distance that can measure how many standard deviations away a point is from the mean of a distribution in a generalized n-dimensional space.",
+        "image": "slides/3.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1937,
+        "title": "India's first indigenous electric motor",
+        "description": "GD Naidu developed India's first indigenous motor in 1937 along with D. Balasundaram Naidu",
+        "image": "slides/15.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1938,
+        "title": "Institute of Wood Science and Technology",
+        "description": "Institute of wood science and technology was established in 1938 in bangalore",
+        "image": "slides/20.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1939,
+        "title": "Muthoot finance gets established",
+        "description": "Muthoot Finance Ltd. an Indian financial corporation and the largest gold loan NBFC in the country gets established.",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1940,
+        "title": "",
+        "description": "",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1941,
+        "title": "",
+        "description": "",
+        "image": "slides/6.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1942,
+        "title": "First Automobile Company of India",
+        "description": "It was in 1942, before India’s independence that Hindustan Motors manufactured the first automobile in India.",
+        "image": "slides/15.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1943,
+        "title": "",
+        "description": "",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1944,
+        "title": "",
+        "description": "",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1945,
+        "title": "Launch of Tata Motors that drove the automobile market in future",
+        "description": "Tata Motos, then called as Tata engineering and Locomotive company was launched this year",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1946,
+        "title": "",
+        "description": "",
+        "image": "slides/13.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1947,
+        "title": "",
+        "description": "",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1948,
+        "title": "The Hale Telescope - 200-inch telescope at Mount Palomar begins operation",
+        "description": "Dedicated in 1948 and the largest effective telescope in the world until 1993, the 200-inch Hale Telescope is a workhorse of modern astronomy and contributes to a wide range of astronomical research including Solar System studies, the search for extrasolar planets, stellar population and evolution analysis, and the characterization of remote galaxies. This extraordinary instrument was the vision of astronomer and Caltech founder George Ellery Hale—the man behind the largest telescopes in the world at the beginning of the 20th century.",
+        "image": "slides/15.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1949,
+        "title": "Invention of the Holter Monitor",
+        "description": "In medicine, a Holter monitor (often simply Holter) is a type of ambulatory electrocardiography device, a portable device for cardiac monitoring (the monitoring of the electrical activity of the cardiovascular system) for at least 24 to 72 hours (often for two weeks at a time).",
+        "image": "slides/13.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1950,
+        "title": "",
+        "description": "",
+        "image": "slides/12.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1951,
+        "title": "",
+        "description": "",
+        "image": "slides/17.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1952,
+        "title": "The Indelible ink",
+        "description": "The Indelible ink used to mark the fingernail of a Voter during general elections is a time-tested gift of CSIR to the spirit of democracy. Developed in 1952",
+        "image": "slides/21.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1953,
+        "title": "Bent light",
+        "description": "In 1953, Narinder Singh Kapany designed and manufactured a glass wire capable of transporting light, which he later coined fibre optics, an invention that has transformed all our lives.",
+        "image": "slides/14.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1954,
+        "title": "Landau–Raychaudhuri equation",
+        "description": "This was a key ingredient of the Penrose-Hawking singularity theorems of general relativity.",
+        "image": "slides/6.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1955,
+        "title": "Basu's theorem",
+        "description": "The Basu's theorem states that any complete sufficient statistic is independent of any ancillary statistic.",
+        "image": "slides/20.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1956,
+        "title": "LIC of India",
+        "description": "Began its Journey as a Pillar of Financial Backbone of India.",
+        "image": "slides/13.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1957,
+        "title": "",
+        "description": "",
+        "image": "slides/7.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1958,
+        "title": "Formation of DRDO",
+        "description": "This is the year that the present Defence Research and Development Organisation (DRDO) was formed by amalgamating some of the existing units of the Defence Science Organisation A very remarkable year. It was the outcome of a major reorganisation in as much as it paved the way for adequate scientific and technical support to the Indian Armed Forces. Also, The Standards of Weights and Measures Act took effect.",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1959,
+        "title": "",
+        "description": "",
+        "image": "slides/14.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1960,
+        "title": "",
+        "description": "",
+        "image": "slides/1.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1961,
+        "title": "",
+        "description": "",
+        "image": "slides/7.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1962,
+        "title": "",
+        "description": "",
+        "image": "slides/12.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1963,
+        "title": "Ramachandran plot",
+        "description": "The Ramachandran plot and Ramachandran map were developed by Gopalasamudram Narayana Iyer Ramachandran, who published his results in the Journal of Molecular Biology in 1963.",
+        "image": "slides/18.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1964,
+        "title": "IDBI Bank has been established",
+        "description": "IDBI Bank has been established in 1964",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1965,
+        "title": "Bhabha went to US to pitch about nuclear plant",
+        "description": "1965, Bhabha visited Washington, DC to pitch the idea of nuclear cooperation.",
+        "image": "slides/14.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1966,
+        "title": "Reliance Commercial Corporation",
+        "description": "Reliance Commercial Corporation was founded by Dhirubhai Ambani in 1966 as a polyester firm. It got renamed as Reliance Industries on 8 May 1973",
+        "image": "slides/13.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1967,
+        "title": "Electronics Corporation of India Limited",
+        "description": "It is a Government of India Enterprise under the Department of Atomic Energy, established on 11 April 1967 by A. S. Rao at Hyderabad, to create a strong indigenous base in electronics.",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1968,
+        "title": "Role of nucleotides in protein synthesis by Har Gobind Khorana",
+        "description": "Har Gobind Khorana was the first to demonstrate the role of nucleotides in protein synthesis. He shared the 1968 Nobel Prize for Physiology or Medicine with Marshall W. Nirenberg and Robert W. Holley for research that showed how the order of nucleotides in nucleic acids, which carry the genetic code of the cell, control the cell’s synthesis of proteins.",
+        "image": "slides/21.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1969,
+        "title": "TDC 12 computer commissioned at the Bhabha Atomic Research Centre,Mumbai.",
+        "description": "TDC 12 computer commissioned at the Bhabha Atomic Research Centre,Mumbai. A real‐time data acquisition computer.",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1970,
+        "title": "Bharat Dynamics Limited has established",
+        "description": "Bharat Dynamics Limited is one of India's manufacturers of ammunitions and missile systems. It was founded in 1970 in Hyderabad, Telangana, India. BDL was established in the year 1970 to be a manufacturing base for guided weapon systems",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1971,
+        "title": "Visakhapatnam Steel Plant has established",
+        "description": "Visakhapatnam Steel Plant is the integrated steel plants of Rashtriya Ispat Nigam Limited in Visakhapatnam. Founded in 1971, the plant focuses on producing value-added steel, with 214,000 tonnes produced in August 2010, out of 252,000 tonnes total of saleable steel produced.",
+        "image": "slides/8.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1972,
+        "title": "Steel Authority of India Ltd (SAIL) was formed",
+        "description": "Steel Authority of India Ltd was ncorporated on January 24, 1973 with an authorised capital of Rs. 2000 crore, was made responsible for managing five integrated steel plants at Bhilai, Bokaro, Durgapur, Rourkela and Burnpur, the Alloy Steel Plant and the Salem Steel Plant",
+        "image": "slides/8.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1973,
+        "title": "",
+        "description": "",
+        "image": "slides/11.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1974,
+        "title": "India's first successful nuclear bomb test",
+        "description": "India's first successful nuclear bomb test (code name- Smiling Budhdha) was on 18th May 1974.The bomb was detonated on the army base Pokhran Test Range (PTR), in Rajasthan, by the Indian Army",
         "image": "slides/2.jpg"
     },
     {
-        "day": 1,
-        "month": 10,
+        "month": 1,
+        "year": 1975,
+        "title": "First Indian Satellite Aryabhata",
+        "description": "India launched its first satellite, Named after the ancient Indian astronomer, Aryabhata into space on April 19, 1975, by the ISRO. It was constructed to gain experience in operating and building satellites. But unfortunately, Aryabhata's mission was ended due to power failure after the satellite had completed sixty orbits of the Earth.",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1976,
+        "title": "",
+        "description": "",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1977,
+        "title": "",
+        "description": "",
+        "image": "slides/13.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1978,
+        "title": "First test tube baby Durga",
+        "description": "The first Indian test tube baby and the second in the world, Durga was born on October 3, 1978 in Calcutta just 67 days after the world's first test-tube baby, Marie Louise Brown, from the UK. But unfortunately, Dr. Mukhopadhyay's claims of his work were not believed by the scientific community and were ridiculed which led him to commit suicide. Not until 2005 his contributions to science were recognized.",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1979,
+        "title": "",
+        "description": "",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
         "year": 1980,
-        "title": " as",
-        "description": "v asdzx  zzakd akzs zdka zdzdzz zvzvzv sdk",
-        "image": "slides/2.jpg"
+        "title": "Rohini satellite deployed",
+        "description": "Successfully deployed the Rohini satellite in near earth’s orbit in July 1980",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1981,
+        "title": "First IBM PC was released",
+        "description": "The IBM PC, also known as model number 5150, was released in 1981 and changed the business world forever.",
+        "image": "slides/6.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1982,
+        "title": "",
+        "description": "",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1983,
+        "title": "Antarctic Research; Dakshin Gangotri",
+        "description": "India's first scientific base station in Antarctica was established. Built in a record time-eight weeks-by an 81-member team, it was powered by solar energy.",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1984,
+        "title": "Rakesh sharma; Our man in space",
+        "description": "The first Indian space traveler, in the joint ISRO-Soviet Intercosmos space programme, Sharma performed multi-spectral photography of northern India, in anticipation of the construction of hydro-electric power stations in the Himalayas.",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1985,
+        "title": "Microwave Communication",
+        "description": "The first public demonstration of microwave transmission was made by Jagadish Chandra Bose, in Calcutta, in 1895",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1986,
+        "title": "",
+        "description": "",
+        "image": "slides/19.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1987,
+        "title": "",
+        "description": "",
+        "image": "slides/6.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1988,
+        "title": "Ballistic missile",
+        "description": "The Prithvi was India's first indigenously developed ballistic missile successfully first tested fired in 1988.",
+        "image": "slides/20.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1989,
+        "title": "Agni-1",
+        "description": "Agni, now the name for a family of missiles of various ranges has come to be the mainstay of India's strategic arsenal capable of carrying nuclear warheads",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1990,
+        "title": "DNA Finger Printing",
+        "description": "Dr Singh established that BKM sequences and the methods of studying them could be used to generate DNA 'fingerprints' even for human beings",
+        "image": "slides/9.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1991,
+        "title": "PARAM supercomputer",
+        "description": "The PARAM 8000 was India's first supercomputer machine and was built from scratch.",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1992,
+        "title": "Flexcube for Banks",
+        "description": "VSNL introduces 64 kbps leased line services. Tata group and IBM form a 50:50 joint venture company. Software product Flexcube for banks developed by Rajesh Hukku of IFlex.",
+        "image": "slides/19.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1993,
+        "title": "PSLV, EDI",
+        "description": "The Polar Satellite Launch Vehicle (PSLV) is an expendable medium-lift launch vehicle designed and operated by the Indian Space Research Organisation (ISRO). It was developed to allow India to launch its Indian Remote Sensing (IRS) satellites into sun-synchronous orbits, a service that was, until the advent of the PSLV in 1993, commercially available only from Russia. PSLV can also launch small size satellites into Geostationary Transfer Orbit (GTO). EDI introduced by VSNL. Indian Satellite Development Centre at Bangalore installs a distributed computer system with 9 IBM RS6000/530s, 9 RS6000/220s and 33 RS6000/220s. Private software companies allowed dedicated satellite links with customers in the USA.5. Motorola India first company in the world to get CMM level 5 certification for software quality.",
+        "image": "slides/8.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1994,
+        "title": "Govt monopoly in telecommunication ends",
+        "description": "Privatization of telecommunication changed the way communication worked in the country.",
+        "image": "slides/23.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1995,
+        "title": "Internet Access was first provided in India for public",
+        "description": "The first publicly available internet service in India was launched by state-owned Videsh Sanchar Nigam Limited (VSNL) on 15 August 1995.[",
+        "image": "slides/20.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1996,
+        "title": "JAVA programming language",
+        "description": "The First version of JAVA programming language was released. The first stable version, JDK 1.0. 2, is called Java 1.",
+        "image": "slides/17.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1997,
+        "title": "PSLV-C1",
+        "description": "First satellite launch without Russian assistance",
+        "image": "slides/6.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1998,
+        "title": "Pokhran 2",
+        "description": "India achieved capability to build fission and thermo-nuclear weapons",
+        "image": "slides/8.jpg"
+    },
+    {
+        "month": 1,
+        "year": 1999,
+        "title": "Genome Valley",
+        "description": "India's first systematically developed R&D cluster",
+        "image": "slides/4.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2000,
+        "title": "Y2K bug",
+        "description": "Y2K bug helped India in booming of IT and BPO industry",
+        "image": "slides/10.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2001,
+        "title": "HAL Tejas",
+        "description": "Supersonic fighter",
+        "image": "slides/15.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2002,
+        "title": "AKS Primality Test",
+        "description": "Algorithm helps in faster verification of primality",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2003,
+        "title": "ISRO proposed",
+        "description": "ISRO proposal approved by GOI",
+        "image": "slides/1.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2004,
+        "title": "Yes Bank",
+        "description": "Yes Bank started in 2004 in Mumbai. Their total current assets are worth ₹2,578 billion (US$36 billion).",
+        "image": "slides/12.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2005,
+        "title": "The Science and Technology Cooperation Agreement with the United States",
+        "description": "establishes intellectual property right protocols and other provisions necessary to conduct active collaborative research",
+        "image": "slides/14.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2006,
+        "title": "",
+        "description": "",
+        "image": "slides/12.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2007,
+        "title": "EKA Super computer",
+        "description": "EKA is a supercomputer built by the Computational Research Laboratories (a subsidiary of Tata Sons) with technical assistance and hardware provided by Hewlett-Packard. At the time of its unveiling, it was the fourth-fastest supercomputer in the world and the fastest in Asia.",
+        "image": "slides/4.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2008,
+        "title": "Lunar Water",
+        "description": "Although the presence of water ice on the moon has been conjectured by various scientists since the 1960s,inconclusive evidence of free water ice had also been identified the first incontrovertible evidence of water on the moon was provided by the payload Chace carried by the Moon Impact Probe released by Chandrayaan-1 confirmed and established by NASA.",
+        "image": "slides/23.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2009,
+        "title": "Tata nano",
+        "description": "The Tata Nano became the cheapest car in the world because of the frugal engineering and thrifty innovation of the designers at TATA Motors. They made a car that fit function in a small frame, and despite the low price, safety was not compromised.",
+        "image": "slides/7.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2010,
+        "title": "",
+        "description": "",
+        "image": "slides/9.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2011,
+        "title": "Delhivery, Zivame, InMobi",
+        "description": "Among the most successful present-day ventures. Also thirty-five Indian companies are included in the top 200 Asia-Pacific corporations in Forbes Asia's Best Under a Billion list for 2011 released on 31 August 2011.",
+        "image": "slides/1.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2012,
+        "title": "Defence, biochemistry",
+        "description": "India successfully test fires 5000 km range Agni-V ICBM, In 2012, Sathees C Raghavan, associate professor with IISc’s biochemistry department and his team developed a molecule inhibitor, SCR7, which could revolutionise cancer treatment.",
+        "image": "slides/17.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2013,
+        "title": "Space Programme",
+        "description": "The Mars Orbiter Mission (MOM), was successfully launched into low Earth orbit by the Indian Space Research Organisation (ISRO).",
+        "image": "slides/19.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2014,
+        "title": "Smartphone turned Malaria detector",
+        "description": "IISc developed a hand-held device to detect malaria. A smartphone turned into a powerful microscopic device that eliminates the various stages of blood testing to detect malaria, by replacing the phone camera with high resolution optics of a microscope.",
+        "image": "slides/21.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2015,
+        "title": "Affordable lens to give vision to Cataract patients",
+        "description": "Due to a life-saving innovation, many people who suffer from cataract are now able to see. An affordable intraocular lens (IOLs) was developed, which is basically a thin film of ‘tetraflouroethane’ coating on IOL. This IOL replaces the natural lens in the eyes of a cataract patient. Currently AUROLAB produces these lenses.",
+        "image": "slides/23.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2016,
+        "title": "Non-invasive heart condition detector",
+        "description": "A non-invasive device that can measure heart and lung, called the Fibre Bragg Grating Heart Beat Device, was invented by S Asokan, Professor at Department of Instrumentation and Applied Physics (IISc) and his team. The device simply needs to be wrapped around a person’s chest, while the sensors detect cardiac activities, measure blood pressure, count blood glucose levels, and monitor respiration.",
+        "image": "slides/22.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2017,
+        "title": "Launch of world's heaviest rocket, lightest satellite & smallest spacecraft(Establishing indepence in space science).",
+        "description": "Sprites (world's first smallest spacecraft) was launched successfully by ISRO to place in low earth orbit. GSLV Mark III (India's heaviest rocket) was launched successfully by ISRO. KalamSat (World's lightest satellite) designed by an Indian teen was launched successfully by NASA.",
+        "image": "slides/5.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2018,
+        "title": "World record of launching 104 satellites in one go and first bio-fuel powered flight (Energy efficiency).",
+        "description": "ISRO launched 104 satellites in one go (creating a world record) using PSLV rocket. The India's first bio-fuel (developed by CSIR, India) powered flight took from Dehradun to Delhi.",
+        "image": "slides/16.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2019,
+        "title": "[Predicting Preemies]15 million babies are born prematurely every year; it’s the leading cause of death for children under age five",
+        "description": "A simple blood test can predict if a pregnant woman is at risk of giving birth prematurely. The tests for conditions such as Down syndrome rely on looking for genetic mutations in the DNA. RNA, on the other hand, is the molecule that regulates gene expression—how much of a protein is produced from a gene. By sequencing the free-floating RNA in the mother’s blood, The innovation can spot fluctuations in the expression of seven genes that he singles out as associated with preterm birth. That lets it identify women likely to deliver too early. Once alerted, doctors can take measures to stave off an early birth and give the child a better chance of survival.",
+        "image": "slides/8.jpg"
+    },
+    {
+        "month": 1,
+        "year": 2020,
+        "title": "[Satellite mega-constellations] These systems can blanket the globe with high-speed internet",
+        "description": "Satellites that can beam a broadband connection to internet terminals. As long as these terminals have a clear view of the sky, they can deliver internet to any nearby devices.",
+        "image": "slides/16.jpg"
     }
 ]

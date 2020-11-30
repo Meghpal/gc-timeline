@@ -2,17 +2,21 @@ import React from 'react';
 import '../css/Nib.css';
 
 export default class Nib extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            occupy: false
-        };
-    }
-
     render() {
         return (
-            <div className="time-nib" onClick={this.props.onClick}>
-            </div>
+            <div tabIndex="0"
+                role="button"
+                aria-pressed="false"
+                className={this.props.selected ? "time-nib current" : "time-nib"}
+                onClick={this.props.onClick}
+                onKeyDown={(e) => {
+                    if (e.key === "Enter" || e.key === "Spacebar" || e.key === " ")
+                        this.props.onClick()
+                }}>
+                <span>
+                    {this.props.year}
+                </span>
+            </div >
         );
     }
 }

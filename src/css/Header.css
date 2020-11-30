@@ -2,7 +2,8 @@ header {
     position: fixed;
     top: 0;
     color: white;
-    background-color: #887979;
+    background-color: #88797950;
+    backdrop-filter: blur(6px);
     width: 100%;
     height: 100vh;
     transition: all 0.3s ease-in-out;
@@ -16,4 +17,36 @@ header {
 header.free {
     height: 50px;
     width: 100%;
+}
+
+.header-title{
+    padding-bottom: 10vh;
+}
+
+header.free .header-title{
+    padding-bottom: 0;
+}
+
+/* from https://www.kirupa.com/animations/creating_pulsing_circle_animation.htm */
+
+.p-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    padding-top: 10vh;
+}
+
+.p-container svg {
+    position: absolute;
+    font-size: calc(10px + 4vh);
+    opacity: 1;
+    color: #797979;
+    z-index: 9;
 }

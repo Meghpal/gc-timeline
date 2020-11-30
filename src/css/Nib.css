@@ -1,17 +1,76 @@
 .time-nib{
     height: 5vh;
-    width: 4px;
+    width: 6px;
     background-color: white;
     transition: 0.3s;
+    margin: 0;
+    margin-right: 50px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
-.time-nib:hover{
-    transform: scale(2,2);
+.time-nib:last-child{
+    margin: 0;
+    margin-right: 12px;
+    display: flex;
+    flex:1;
+    align-items: center;
+    justify-content: center;
+}
+
+.time-nib:hover,
+.time-nib.current{
+    height: 10vh;
+    width: 18px;
+}
+
+.time-nib>span{
+    display: flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+    font-size: 5px;
+    text-align: center;
+    color: transparent;
+    height: calc(100% + 20px);
+    width: 100%;
+    writing-mode: vertical-lr;
+}
+
+.time-nib:hover>span,
+.time-nib.current>span{
+    color: black;
+    font-size: 15px;
 }
 
 @media only screen and (min-width: 768px) {
     .time-nib{
-    height: 4px;
-    width: 5vw;
+        height: 6px;
+        width: 5vw;
+        margin: 0;
+        margin-bottom: 50px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 0;
+    }
+
+    .time-nib:last-child{
+        margin: 0;
+        margin-bottom: 12px;
+    }
+
+    .time-nib:hover,
+    .time-nib.current{
+        width: 10vw;
+        height: 18px;
+    }
+
+    .time-nib>span{
+        writing-mode: horizontal-tb;
+        width: calc(100% + 20px);
+        height: 100%;
     }
 }
