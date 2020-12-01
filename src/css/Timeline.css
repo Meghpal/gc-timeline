@@ -38,10 +38,13 @@
     align-items: flex-end;
     height: 100%;
     vertical-align: bottom;
+}
+
+.scroll-container:hover{
     cursor: grab;
 }
 
-.scroll-container:hover:active .nib-container{
+.scroll-container.indiana-scroll-container--dragging{
     cursor: grabbing;
 }
 

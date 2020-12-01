@@ -6,7 +6,6 @@ export default class Nib extends React.Component {
         return (
             <div tabIndex="0"
                 role="button"
-                aria-pressed="false"
                 className={this.props.selected ? "time-nib current" : "time-nib"}
                 onClick={this.props.onClick}
                 onKeyDown={(e) => {

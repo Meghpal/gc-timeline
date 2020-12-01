@@ -1,4 +1,4 @@
-import { TouchAppRounded } from '@material-ui/icons';
+import { TouchApp } from '@material-ui/icons';
 import React from 'react';
 import '../css/Header.css';
 import { BounceLoader } from 'react-spinners';
@@ -10,7 +10,7 @@ export default function Header(props) {
             { props.occupy
                 &&
                 <div className="p-container">
-                    <TouchAppRounded />
+                    <TouchApp />
                     <BounceLoader color={"#88797920"} size={"20vh"} />
                 </div >
             }
